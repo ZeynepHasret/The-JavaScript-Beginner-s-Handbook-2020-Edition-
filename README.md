@@ -34,7 +34,7 @@ JavaScript is a programming language that is:
 In case you're wondering, *JavaScript has nothing to do with Java*, it's a poor name choice but we have to live with it.
 ### Summary of the handbook
 
-1. [JavaScript Sentaksına Kısa Bir Giriş](https://github.com/omrfyildiz/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/Turkish-Translate/01-JavaScript%20Sentaks%C4%B1na%20K%C4%B1sa%20Bir%20Giri%C5%9F.md)
+1. [JavaScript Sentaksına Kısa Bir Giriş](https://github.com/ZeynepHasret/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/01-JavaScript%20Sentaks%C4%B1na%20K%C4%B1sa%20Bir%20Giri%C5%9F.md)
 2. [Just JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Just%20JavaScript.md#just-javascript)
 3. [A brief intro to the syntax of JavaScript](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/A%20brief%20intro%20to%20the%20syntax%20of%20JavaScript.md#a-brief-intro-to-the-syntax-of-javascript)
 4. [Semicolons](https://github.com/Kodluyoruz51BootcampMVCCore/The-JavaScript-Beginner-s-Handbook-2020-Edition-/blob/master/Semicolons.md#semicolons)
